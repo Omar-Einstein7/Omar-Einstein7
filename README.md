@@ -1,8 +1,10 @@
-<!-- 🔥 TOP GIF -->
+<!-- 🔥 TOP GIF (SMALL & CLEAN) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRtczJ3eGw2YzF6b2JhbTZ4dHF1OGJxcml0cnMzbm8zZnk3aXU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif" width="100%" />
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRtczJ3eGw2YzF6b2JhbTZ4dHF1OGJxcml0cnMzbm8zZnk3aXU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyjrpqaUVqCELGuQVr/giphy.gif"
+    width="350"
+    alt="coding animation" />
 </p>
-
 <!-- 🎨 FLUTTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00D2FF&height=240&section=header&text=Omar%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=55" />
