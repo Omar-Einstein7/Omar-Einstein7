@@ -317,7 +317,7 @@ Completed intensive Python development training, strengthening problem-solving, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Omar-Einstein7/Omar-Einstein7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Omar-Einstein7/Omar-Einstein7/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
